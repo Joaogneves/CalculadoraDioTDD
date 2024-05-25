@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joao\\source\\repos\\CalculadoraDio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{577802B2-573D-4379-BFE6-8A3A4BB8EE4B}|CalculadoraDioTest\\CalculadoraDioTest.csproj|c:\\users\\joao\\source\\repos\\calculadoradio\\calculadoradiotest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577802B2-573D-4379-BFE6-8A3A4BB8EE4B}|CalculadoraDioTest\\CalculadoraDioTest.csproj|solutionrelative:calculadoradiotest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A9099C-3041-45C2-BB7F-485F2BDB61A8}|CalculadoraDio\\CalculadoraDio.csproj|c:\\users\\joao\\source\\repos\\calculadoradio\\calculadoradio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A9099C-3041-45C2-BB7F-485F2BDB61A8}|CalculadoraDio\\CalculadoraDio.csproj|solutionrelative:calculadoradio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A9099C-3041-45C2-BB7F-485F2BDB61A8}|CalculadoraDio\\CalculadoraDio.csproj|c:\\users\\joao\\source\\repos\\calculadoradio\\calculadoradio\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A9099C-3041-45C2-BB7F-485F2BDB61A8}|CalculadoraDio\\CalculadoraDio.csproj|solutionrelative:calculadoradio\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\Joao\\source\\repos\\CalculadoraDio\\CalculadoraDio\\Calculadora.cs",
+              "RelativeDocumentMoniker": "CalculadoraDio\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\Joao\\source\\repos\\CalculadoraDio\\CalculadoraDio\\Calculadora.cs",
+              "RelativeToolTip": "CalculadoraDio\\Calculadora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T12:55:56.575Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Joao\\source\\repos\\CalculadoraDio\\CalculadoraDioTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CalculadoraDioTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Joao\\source\\repos\\CalculadoraDio\\CalculadoraDioTest\\UnitTest1.cs",
+              "RelativeToolTip": "CalculadoraDioTest\\UnitTest1.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAIwD0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T12:54:33.221Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joao\\source\\repos\\CalculadoraDio\\CalculadoraDio\\Program.cs",
+              "RelativeDocumentMoniker": "CalculadoraDio\\Program.cs",
+              "ToolTip": "C:\\Users\\Joao\\source\\repos\\CalculadoraDio\\CalculadoraDio\\Program.cs",
+              "RelativeToolTip": "CalculadoraDio\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T12:50:54.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

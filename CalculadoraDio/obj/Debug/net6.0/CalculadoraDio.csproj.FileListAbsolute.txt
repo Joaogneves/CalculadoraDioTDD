@@ -1,0 +1,14 @@
+C:\Users\Joao\source\repos\CalculadoraDio\CalculadoraDio\bin\Debug\net6.0\CalculadoraDio.exe
+C:\Users\Joao\source\repos\CalculadoraDio\CalculadoraDio\bin\Debug\net6.0\CalculadoraDio.deps.json
+C:\Users\Joao\source\repos\CalculadoraDio\CalculadoraDio\bin\Debug\net6.0\CalculadoraDio.runtimeconfig.json
+C:\Users\Joao\source\repos\CalculadoraDio\CalculadoraDio\bin\Debug\net6.0\CalculadoraDio.dll
+C:\Users\Joao\source\repos\CalculadoraDio\CalculadoraDio\bin\Debug\net6.0\CalculadoraDio.pdb
+C:\Users\Joao\source\repos\CalculadoraDio\CalculadoraDio\obj\Debug\net6.0\CalculadoraDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao\source\repos\CalculadoraDio\CalculadoraDio\obj\Debug\net6.0\CalculadoraDio.AssemblyInfoInputs.cache
+C:\Users\Joao\source\repos\CalculadoraDio\CalculadoraDio\obj\Debug\net6.0\CalculadoraDio.AssemblyInfo.cs
+C:\Users\Joao\source\repos\CalculadoraDio\CalculadoraDio\obj\Debug\net6.0\CalculadoraDio.csproj.CoreCompileInputs.cache
+C:\Users\Joao\source\repos\CalculadoraDio\CalculadoraDio\obj\Debug\net6.0\CalculadoraDio.dll
+C:\Users\Joao\source\repos\CalculadoraDio\CalculadoraDio\obj\Debug\net6.0\refint\CalculadoraDio.dll
+C:\Users\Joao\source\repos\CalculadoraDio\CalculadoraDio\obj\Debug\net6.0\CalculadoraDio.pdb
+C:\Users\Joao\source\repos\CalculadoraDio\CalculadoraDio\obj\Debug\net6.0\CalculadoraDio.genruntimeconfig.cache
+C:\Users\Joao\source\repos\CalculadoraDio\CalculadoraDio\obj\Debug\net6.0\ref\CalculadoraDio.dll
